@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.simon.harmonichackernews"
+    namespace = "com.hackerbird.app"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.simon.harmonichackernews"
+        applicationId = "com.hackerbird.app"
         minSdk = 23
         targetSdk = 36
         versionCode = 74
